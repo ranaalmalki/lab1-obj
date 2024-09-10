@@ -16,7 +16,7 @@ cheack:function(){
 addres:{
     street:"hamed",
     city:{
-        city:"riyadh",
+        city1:"riyadh",
         city2:"jeddah"
 
     },
